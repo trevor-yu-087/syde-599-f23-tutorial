@@ -1,6 +1,5 @@
 # Jupyter
 ipykernel
-jupyter-notebook
 jupyter
 
 # Required packages in notebooks
